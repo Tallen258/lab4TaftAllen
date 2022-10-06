@@ -1,0 +1,15 @@
+C:\Users\myjee\Csharp\lab4TaftAllen\bin\Debug\net6.0\lab4TaftAllen.exe
+C:\Users\myjee\Csharp\lab4TaftAllen\bin\Debug\net6.0\lab4TaftAllen.deps.json
+C:\Users\myjee\Csharp\lab4TaftAllen\bin\Debug\net6.0\lab4TaftAllen.runtimeconfig.json
+C:\Users\myjee\Csharp\lab4TaftAllen\bin\Debug\net6.0\lab4TaftAllen.dll
+C:\Users\myjee\Csharp\lab4TaftAllen\bin\Debug\net6.0\lab4TaftAllen.pdb
+C:\Users\myjee\Csharp\lab4TaftAllen\obj\Debug\net6.0\lab4TaftAllen.csproj.AssemblyReference.cache
+C:\Users\myjee\Csharp\lab4TaftAllen\obj\Debug\net6.0\lab4TaftAllen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myjee\Csharp\lab4TaftAllen\obj\Debug\net6.0\lab4TaftAllen.AssemblyInfoInputs.cache
+C:\Users\myjee\Csharp\lab4TaftAllen\obj\Debug\net6.0\lab4TaftAllen.AssemblyInfo.cs
+C:\Users\myjee\Csharp\lab4TaftAllen\obj\Debug\net6.0\lab4TaftAllen.csproj.CoreCompileInputs.cache
+C:\Users\myjee\Csharp\lab4TaftAllen\obj\Debug\net6.0\lab4TaftAllen.dll
+C:\Users\myjee\Csharp\lab4TaftAllen\obj\Debug\net6.0\refint\lab4TaftAllen.dll
+C:\Users\myjee\Csharp\lab4TaftAllen\obj\Debug\net6.0\lab4TaftAllen.pdb
+C:\Users\myjee\Csharp\lab4TaftAllen\obj\Debug\net6.0\lab4TaftAllen.genruntimeconfig.cache
+C:\Users\myjee\Csharp\lab4TaftAllen\obj\Debug\net6.0\ref\lab4TaftAllen.dll
